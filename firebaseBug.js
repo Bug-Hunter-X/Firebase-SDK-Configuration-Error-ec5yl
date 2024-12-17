@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the provided configuration object is invalid or missing required fields.  This can happen if you're accidentally passing the wrong object or if your config file is incorrectly formatted.  Another common issue is a missing or incorrect `appId` or `apiKey`.
